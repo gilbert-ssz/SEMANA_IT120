@@ -1,3 +1,6 @@
 Language: Filipino
 Person to be Contact: Gillie Marie Semana
 Address: P-6 Barangay Santo Nino, Magallanes ADN
+Name: Gilbert Mar
+Contact Number: 09123456789
+
