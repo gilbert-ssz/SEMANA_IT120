@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Elementary: Buhang Elementary School 
 Year Graduated: 2016
 High School: Magallanes National High School 
@@ -7,3 +8,11 @@ Year Graduated: 2022
 College: CSUCC  Ongoing
 Name: Gilbert Mar Semana
 Contact Number: 09631218043
+Elementary: Buhang  Elementary School 
+Year Graduated: 2016
+High School: magallanes National High School 
+Year Graduated: 2020
+Senior High School: magallanes National High School 
+Year Graduated: 2022
+College: CSUCC - Ongoing
+
