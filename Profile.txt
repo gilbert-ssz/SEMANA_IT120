@@ -1,0 +1,12 @@
+FirstName: Gilbert Mar
+MiddleName: Lamanilao  
+LastName: Semana
+Gender: Male  
+Birthday: August 19, 2005  
+Contact#: 09631218043  
+Birth or Place: marcos magallanes, ADN  
+Religion: Roman Catholic  
+Father’s Name: Gilbert Semana  
+Occupation: Security Guard  
+Mother’s Name: Ma. Elena Semana  
+Occupation: OFW

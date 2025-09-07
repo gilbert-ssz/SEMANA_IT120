@@ -1,0 +1,1 @@
+write all git command to run your activity

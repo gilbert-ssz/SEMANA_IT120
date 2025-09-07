@@ -1,0 +1,5 @@
+Name: Gilbert Mar Semana
+Elementary: Example Elementary School - 2015
+High School: Example High School - 2019
+Senior High School: Example Senior High - 2021
+College: CSUCC - Ongoing
