@@ -1,5 +1,7 @@
-Name: Gilbert Mar Semana
-Elementary: Example Elementary School - 2015
-High School: Example High School - 2019
-Senior High School: Example Senior High - 2021
+Elementary: Buhang  Elementary School 
+Year Graduated: 2016
+High School: magallanes National High School 
+Year Graduated: 2020
+Senior High School: magallanes National High School 
+Year Graduated: 2022
 College: CSUCC - Ongoing
