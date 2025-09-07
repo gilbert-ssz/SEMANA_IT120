@@ -10,3 +10,5 @@ Father’s Name: Gilbert Semana
 Occupation: Security Guard  
 Mother’s Name: Ma. Elena Semana  
 Occupation: OFW
+Elementary: Buhang Elementary School
+Year Graduated: 2016
